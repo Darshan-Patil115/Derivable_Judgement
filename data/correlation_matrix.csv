@@ -1,0 +1,7 @@
+,age,weight,bmi,blood_pressure,cholesterol_level,glucose_level
+age,1.0,0.228,0.29,0.518,0.3,0.338
+weight,0.228,1.0,0.771,0.346,0.167,0.262
+bmi,0.29,0.771,1.0,0.396,0.228,0.355
+blood_pressure,0.518,0.346,0.396,1.0,0.163,0.245
+cholesterol_level,0.3,0.167,0.228,0.163,1.0,0.094
+glucose_level,0.338,0.262,0.355,0.245,0.094,1.0

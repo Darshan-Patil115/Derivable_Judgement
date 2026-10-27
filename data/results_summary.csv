@@ -1,0 +1,6 @@
+Question,Test,Statistic,p-value,Decision,Meaning
+Smoking vs Diabetes,Chi-square,18.93,7.75e-05,Reject H0,Smoking is linked with diabetes
+BMI: Diabetic vs Non-diabetic,Welch t-test / z-test,5.897,1.36e-08,Reject H0,Diabetic people have higher BMI
+Gender vs Hypertension,Chi-square,2.422,0.2980,Fail to reject H0,No clear link with gender
+Age groups vs Diabetes,ANOVA,8.831,5.24e-07,Reject H0,Diabetes rate changes with age
+Age vs BMI,Pearson correlation,0.29,8.41e-21,Reject H0 (r = 0),Weak positive link
