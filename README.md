@@ -2,8 +2,6 @@
 
 A beginner-friendly data science project. It uses **inferential statistics** to find which factors (age, smoking, BMI, gender) affect **diabetes** and **hypertension**.
 
-> The dataset is **synthetic** (made by code). It is for learning only. It is not real patient data.
-
 ## What this project does
 - Creates a health dataset of 1000 records.
 - Writes short theory notes (PDF).
